@@ -1,4 +1,4 @@
-# Power-Bi-Projects
+# Coffee Shop Sales
 
 Analyse past coffee sales data to identify trends, improve sales, and enhance customer experience using time series analysis.
 Procedure:
@@ -9,8 +9,7 @@ Procedure:
 5.	Import the cleaned data into Power BI.
 6.	Perform DAX queries and create KPIs and trend charts.
 7.	Develop an advanced dashboard to visualize insights.
-Tools Used:
 <br>
-SQL Workbench, Excel, Power BI
+Tools Used: SQL Workbench, Excel, Power BI
 <br>
 Author - Pankaj Singh
