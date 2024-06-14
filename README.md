@@ -1,6 +1,5 @@
 # Coffee Shop Sales
-<br>
-Excited to present my debut Power BI project, where I performed data analysis, data cleansing, executed DAX queries, and created insightful visualizations.
+
 
 Goal: Apply time series analysis to historical coffee sales data in order to spot patterns, boost revenue, and improve customer satisfaction.
 
